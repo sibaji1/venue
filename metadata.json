@@ -1,0 +1,6 @@
+{
+  "name": "AuraFeast - AI Wedding Catering & Vendor Matchmaker",
+  "description": "Smart wedding catering, marriage halls, and decor vendor marketplace with AI budget matching, custom menu planning, and instant package quotes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
